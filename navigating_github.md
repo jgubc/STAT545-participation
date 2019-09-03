@@ -6,3 +6,6 @@ URL to corresponding organization account:
 
 https://github.com/STAT545-UBC
 
+URL to user account:
+
+https://github.com/STAT545-UBC/Classroom
