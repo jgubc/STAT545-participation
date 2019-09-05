@@ -10,7 +10,7 @@ The URL to user account:
 
 https://github.com/STAT545-UBC/Classroom
 
-This is my participation repo:
+This is my participation repo (class 1, Sept 3, 2019, Jumi Gogoi):
 
 https://github.com/jgubc/STAT545-participation/edit/master/navigating_github.md
 
