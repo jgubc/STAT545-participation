@@ -14,6 +14,10 @@ This is my participation repo (class 1, Sept 3, 2019, Jumi Gogoi):
 
 https://github.com/jgubc/STAT545-participation/edit/master/navigating_github.md
 
+This is the URL to my account page (Jumi Gogoi):
+
+https://github.com/jgubc
+
 The URL to assignment 01 of last year (STAT545 2018) 
 
 https://github.com/STAT545-UBC/Classroom/commit/11f1176c30aca85c89a24ef11f1cad661a724ff4
