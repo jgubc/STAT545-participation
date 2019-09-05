@@ -29,3 +29,7 @@ Asking questions on Stackoverflow - an example
 URL of example question on stackoverflow
 
 https://stackoverflow.com/questions/32100598/create-merged-tables-in-r
+
+Effective vs ineffective questions-
+
+The above question in Stackoverflow has been unambiguously framed making it easier to comprehend the question when read the first time. The code used is posted by the problem asker and an example of desired output is posted making it an effective question. 
