@@ -1,5 +1,3 @@
-# STAT545-participation
+# STAT545-participation repository
 
-Participation repo for STAT 545
-
-WElcome to the participation repo
+Welcome to the participation repo for STAT 545 Term 1, 2019
