@@ -1,0 +1,44 @@
+---
+title: "sample"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+<font size="3">| Variable | Description |</font>
+<font size="3">|----------|-------------|</font>
+<font size="3">| mpg | Miles/(US) gallon |</font>
+
+1. mpg  -	Miles/(US) gallon
+2. cyl  - Number of cylinders                     
+3. disp - Displacement (cu.in.) 
+
+<font size="3">1. mpg  -	Miles/(US) gallon</font>
+<br>
+<font size="3">2. cyl  - Number of cylinders</font>                     
+
+                 
+
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
